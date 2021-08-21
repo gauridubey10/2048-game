@@ -1,0 +1,37 @@
+body{
+background-color: aquamarine;
+
+    
+}
+
+.bg div{
+  font-size: larger;
+  font-size: 70px;
+  text-align: center;
+}
+
+.op{
+    opacity: 60%;
+}
+
+.box{
+    margin: auto;
+    margin-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 450px;
+    height:450px;
+    background-color: rgb(94, 148, 148);
+}
+
+.box div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(216, 165, 34);
+    margin-right: 6px;
+    margin-left: 6px;
+    margin-top: 3px;
+    font: larger;
+    font-size:50px;
+    text-align: center;
+}
